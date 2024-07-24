@@ -1,1 +1,2 @@
 this is a sample program 
+B added a new line 
