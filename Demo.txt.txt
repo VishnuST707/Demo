@@ -1,2 +1,3 @@
 this is a sample program git
 A branch added second line
+B added 3rd line
